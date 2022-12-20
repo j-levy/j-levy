@@ -4,7 +4,7 @@ Here's my GitHub account for academic and professional projects. Up to now, it's
 
 I currently live in Japan, but when a good opportunity comes out, I'm always ready to move.
 
-- 📫 How to reach me: [Mastodon](https://piaille.fr/@lejo),  [email](mailto:levyjo963+github@gmail.com)
+- 📫 How to reach me: [Mastodon](https://piaille.fr/@lejo),  [LinkedIn](https://www.linkedin.com/in/jonathan-levy-867857254/)
 
 
 <!--
