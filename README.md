@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Jonathan LEVY.
 
 Here's my GitHub account for academic and professional projects. Up to now, it's mainly about C++ and CUDA university projects.
+You may find personal projects on my other, separate github account. Please look at my personal page to find these projects: [j-levy.github.io](https://j-levy.github.io)
 
-I currently live in Japan, but when a good opportunity comes out, I'm always ready to move.
+I currently live in Ireland, but when a good opportunity comes out, I'm always ready to move.
 
 - 📫 How to reach me: [Mastodon](https://piaille.fr/@lejo),  [LinkedIn](https://www.linkedin.com/in/jonathan-levy-867857254/)
 
